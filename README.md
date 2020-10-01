@@ -5,3 +5,8 @@
 #### 이름 : 홍길동
 #### email : h20193612@glab.hallym.ac.kr
 #### university : hallym university
+
+> 취미  
+>> 스키  
+>> 낚시  
+>> 여행
